@@ -1,9 +1,9 @@
 # Big-Data-Scaling-Youtube-Data-Analysis
 
-  This project aims to help us gain insights on:
-  1. What makes a video trending on Youtube.
-  2. Can we predict the number of views on a video
-  3. How does a region affect if a video would be trending or not? Do people in different regions want to watch different things ?
+ This project aims to help us gain insights on:
+ 1. What makes a video trending on Youtube.
+ 2. Can we predict the number of views on a video
+ 3. How does a region affect if a video would be trending or not? Do people in different regions want to watch different things ?
 
 ## Prerequisites
 
