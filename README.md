@@ -33,10 +33,10 @@
 
 * Modelling 
 
-  1. Run the data in the file [file_name_modelling.ipynb]
-  2. This file contains the code for modeling the data to predict the view count on youtube videos.
-  3. We use Gradient Boosted Regression and General Linear Regression model for this purpose.
-  4. In our final model we have used Word2Vec on the video title to add it to the feature vector and then used Gradient Bossted Tree Regression to predict the variable.
+1. Run the data in the file [file_name_modelling.ipynb]
+2. This file contains the code for modeling the data to predict the view count on youtube videos.
+3. We use Gradient Boosted Regression and General Linear Regression model for this purpose.
+4. In our final model we have used Word2Vec on the video title to add it to the feature vector and then used Gradient Bossted Tree Regression to predict the variable.
  
 
 ## Visualizations
