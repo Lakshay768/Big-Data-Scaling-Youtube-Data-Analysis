@@ -55,7 +55,7 @@
 
 ## Visualizations
 
-Quick visualizations are scattered throughout the documents. We use barplots often just to see the results of the EDA which were usually counts.
+Quick visualizations are scattered throughout the documents. We use barplots often just to see the results of the EDA which were usually counts. In addition we have used box plots to calculate mean times and line plots to show the number of videos trended on a daily basis. Table represnation are also being used for common words in top trending videos
 
 
 
