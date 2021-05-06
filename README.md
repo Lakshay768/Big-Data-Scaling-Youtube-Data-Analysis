@@ -27,6 +27,20 @@
 ## Pipeline
 
 * Data processing and EDA
+1. Run the file [EDA_Top_Trending_Videos.ipnyb]
+2. The file uses libraries like seaborn, spark, numpy and pandas
+3. Here we analyze the data as stand alone and also in terms of the business logic
+4. In data preprocessing the dates formats were fixed, outliers were removeed and new columns created like time_diff
+5. We also treated NA values by omitting them if necessary.
+6. Analysis include the top trending channels per views
+7. Content watched in different regions
+8. Content produced in different region
+9. Time taken for a video to trend from a the time it is being published.
+10. Best time to upload the video based on region.
+11. The comparison of view for top trending channels for different regions
+12. Cosine Similarity as a test case but results cannot be used as reliable
+13. Most common words in trending videos
+14. Number of videos getting trending on a daily basis
 
 
 
