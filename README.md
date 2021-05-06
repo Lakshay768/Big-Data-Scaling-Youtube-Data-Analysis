@@ -27,7 +27,7 @@
 ## Pipeline
 
 * Data processing and EDA
-1. Run the file [EDA_Top_Trending_Videos.ipnyb]
+1. Run the file 'EDA_Top_Trending_Videos.ipnyb'
 2. The file uses libraries like seaborn, spark, numpy and pandas
 3. Here we analyze the data as stand alone and also in terms of the business logic
 4. In data preprocessing the dates formats were fixed, outliers were removeed and new columns created like time_diff
@@ -47,7 +47,7 @@
 
 * Modelling 
 
-1. Run the data in the file [file_name_modelling.ipynb]
+1. Run the data in the file 'view_count_modeling.ipynb'
 2. This file contains the code for modeling the data to predict the view count on youtube videos.
 3. We use Gradient Boosted Regression and General Linear Regression model for this purpose.
 4. In our final model we have used Word2Vec on the video title to add it to the feature vector and then used Gradient Bossted Tree Regression to predict the variable.
